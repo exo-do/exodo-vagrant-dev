@@ -1,4 +1,5 @@
 Generación automática del entorno de desarrollo para exodo/nodebb
+-----------------------------------------------------------------
 
 - Instala vagrant
 - Clona este repositorio en una carpeta, por ejemplo ~/exodo
